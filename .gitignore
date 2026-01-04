@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.tmp
+*.bak
+*~
+node_modules/
+.env
+.env.local
+.dist/
