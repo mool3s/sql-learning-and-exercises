@@ -6,7 +6,17 @@ My journey learning SQL from beginner to intermediate level. This repository con
 
 ## Repository Structure
 
-### 1. **HackerRank/** 
+### 1. **DataCamp**
+SQL challenges from DataCamp platform with practical data analysis scenarios.
+
+**Topics Learned:**
+- ✅ Data analysis and querying
+- ✅ DataCamp Project
+
+**Files:**
+- `Analyzing Students' Mental Health.sql` - Mental health data analysis
+
+### 2. **HackerRank** 
 Fundamental problems to understand SQL basics from HackerRank platform.
 
 **Topics Learned:**
@@ -27,7 +37,7 @@ Fundamental problems to understand SQL basics from HackerRank platform.
 - `Japanese Cities' Attributes.sql` - Filter by attributes
 - `Weather Observation Station 1-7.sql` - String functions and filtering
 
-### 2. **LeetCode/** 
+### 3. **LeetCode** 
 Lot's problems from LeetCode platform testing deeper understanding.
 
 **Topics Learned:**
@@ -43,8 +53,10 @@ Lot's problems from LeetCode platform testing deeper understanding.
 - `Product Sales Analysis I.sql` - JOIN and aggregation
 - `Invalid Tweets.sql` - Data validation with LENGTH
 - `Find Customer Referee.sql` - NULL value handling
+- `Find Followers Count.sql` - Aggregation and JOIN with followers data
+- `Number of Unique Subjects Taught by Each Teacher.sql` - GROUP BY and COUNT with DISTINCT
 
-### 3. **NgulikSQL/** 
+### 4. **NgulikSQL**
 Collection of SQL problems in Indonesian with business context.
 
 **Topics Learned:**
@@ -72,10 +84,11 @@ Collection of SQL problems in Indonesian with business context.
 
 | Folder | Total | Status | Level |
 |--------|-------|--------|-------|
+| DataCamp | 1 file | ✅ Completed | Intermediate |
 | HackerRank | 11 files | ✅ Completed | Beginner |
-| LeetCode | 5 files | ✅ Completed | Intermediate |
+| LeetCode | 7 files | ✅ Completed | Intermediate |
 | NgulikSQL | 10 files | ✅ Completed | Intermediate |
-| **Total** | **26 files** | ✅ | - |
+| **Total** | **29 files** | ✅ | - |
 
 
 ## SQL Basic Cheatsheet
@@ -99,6 +112,7 @@ LIMIT number;
 
 ## References
 
+- [DataCamp SQL](https://www.datacamp.com/) - DataCamp platform for SQL learning
 - [HackerRank SQL](https://www.hackerrank.com/domains/sql)
 - [LeetCode SQL](https://leetcode.com/studyplan/top-sql-50/)
 - [NgulikSQL](https://ngulikdata.com/nguliksql/exercises) - Indonesia platform for SQL problems.exercises from (Ngulik Data)
